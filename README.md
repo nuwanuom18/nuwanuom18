@@ -11,6 +11,13 @@
 <a href="https://www.instagram.com/nuwan_abeynayake/"><img src="https://i.pinimg.com/originals/16/36/3c/16363c95f647c95b678c2c5a15ea9a0e.gif" alt="nuwan abeynayake"  width="60" height="50" ></a>
 <a href="https://api.whatsapp.com/send?phone=94784695571"><img src="https://i.imgur.com/VWRAQ4d.gif" alt="nuwan abeynayake"  width="60" height="50" ></a>
 - ✨ Projects that I have done: <br>
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EyuzDcLIhmw/0.jpg)](http://www.youtube.com/watch?v=EyuzDcLIhmw)
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/d0Vp2bb8wwY/0.jpg)](http://www.youtube.com/watch?v=d0Vp2bb8wwY)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EyuzDcLIhmw
+" target="_blank"><img src="http://img.youtube.com/vi/EyuzDcLIhmw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=d0Vp2bb8wwY
+" target="_blank"><img src="http://img.youtube.com/vi/d0Vp2bb8wwY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uuXUPGODkVA
+" target="_blank"><img src="http://img.youtube.com/vi/uuXUPGODkVA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
