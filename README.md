@@ -1,5 +1,8 @@
 ## Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Girl in a jacket"  width="25" height="25">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 - 🔭 I’m currently working on web development at [PromiseQ](https://www.linkedin.com/company/promiseq/ "PromiseQ") and doing my university academics.
 - 🌱 I’m currently learning deep learning.
 - 👯 I’m looking to collaborate on [stackoverflow](https://stackoverflow.com/users/11701127/nuwan-madushanka "stackoverflow").
