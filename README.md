@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on web development at [PromiseQ](https://www.linkedin.com/company/promiseq/ "PromiseQ") and doing my university academics.
-- 🌱 I’m currently learning deep learning.
+- 🌱 I’m currently learning deep learning and Machine learning.
 - 👯 I’m looking to collaborate on [stackoverflow](https://stackoverflow.com/users/11701127/nuwan-madushanka "stackoverflow").
 - 🤔 I’m looking for help with: vuejs, react and deep learning.
 - 💬 Ask me about python language, firebase database, data structures and algorithms and video editing with movavi.
