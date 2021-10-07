@@ -16,9 +16,9 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EyuzDcLIhmw
 " target="_blank"><img src="http://img.youtube.com/vi/EyuzDcLIhmw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=d0Vp2bb8wwY
+<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=d0Vp2bb8wwY
 " target="_blank"><img src="http://img.youtube.com/vi/d0Vp2bb8wwY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uuXUPGODkVA
 " target="_blank"><img src="http://img.youtube.com/vi/uuXUPGODkVA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
