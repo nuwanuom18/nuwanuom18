@@ -3,7 +3,7 @@
 [![Nuwan Abeynayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwanuom18&show_icons=true&theme=vue )](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently doing my university academics.
+- 🔭 I’m currently doing my university academics and working as a Machine Learning Engineer(Intern).
 - 🌱 I’m currently learning deep learning and Machine learning.
 - 👯 I’m looking to collaborate on [stackoverflow](https://stackoverflow.com/users/11701127/nuwan-madushanka "stackoverflow").
 - 💬 Ask me about python language, firebase database, data structures and algorithms and video editing with movavi.
